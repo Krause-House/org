@@ -75,3 +75,17 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### Roadmapping the Future of Sport - Token Swap
 
 - 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
+
+#### Product Team New Recruit: Dogstoevsky#0585
+
+- 8,000 USDC to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on October 1st, 2022
+- 5,000 $KRAUSE to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on October 1st, 2022
+
+- 8,000 USDC to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on November 1st, 2022
+- 5,000 $KRAUSE to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on November 1st, 2022
+
+- 8,000 USDC to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on December 1st, 2022
+- 5,000 $KRAUSE to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on December 1st, 2022
+
+- 8,000 USDC to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on January 1st, 2023
+- 5,000 $KRAUSE to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on January 1st, 2023
