@@ -82,8 +82,15 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence
 
-10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on September 25, 2022
+- 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on September 25, 2022
+- 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
+- 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
 
-10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
+#### Kaf Medium Proposal
 
-10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
+- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on October 15, 2022 
+- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on October 15, 2022 
+- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on November 15, 2022
+- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on November 15, 2022
+- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
+- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
