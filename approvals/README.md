@@ -2,11 +2,11 @@
 We are in the process of migrating our "source of truth".  In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 #### Product Team
-- ~~12000 USDC 5000 $KRAUSE greg.eth on August 1, 2022~~ (PAID: etherscan.com/...)
-- ~~8000 USDC 5000 $KRAUSE trik.eth on August 1, 2022~~ (PAID: etherscan.com/...)
-- ~~12000 USDC 5000 $KRAUSE greg.eth on September 1, 2022~~ (PAID: etherscan.com/...)
-- ~~8000 USDC 5000 $KRAUSE trik.eth on September 1, 2022~~ (PAID: etherscan.com/...)
-- 12000 USDC 5000 $KRAUSE greg.eth on October 1, 2022
+- ~~12000 USDC 5000 $KRAUSE greg.eth on August 1, 2022~~ [PAID]
+- ~~8000 USDC 5000 $KRAUSE trik.eth on August 1, 2022~~ [PAID]
+- ~~12000 USDC 5000 $KRAUSE greg.eth on September 1, 2022~~ [PAID]
+- ~~8000 USDC 5000 $KRAUSE trik.eth on September 1, 2022~~ [PAID]
+- ~~12000 USDC 5000 $KRAUSE greg.eth on October 1, 2022~~ [PAID]
 - 8000 USDC 5000 $KRAUSE trik.eth October 1, 2022
 
 #### Contributor Operations Budget v2
@@ -18,8 +18,8 @@ We are in the process of migrating our "source of truth".  In the case of any co
 - Brandan and Dogstoevsky must agree on allocation of budget unanimously.
 
 #### Gitcoin DEI Grant Program Sponsorship and Participation Proposal
-- 20000 USDC
-- 20000 $KRAUSE
+- ~~20000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
+- 20000 $KRAUSE to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
 
 #### Contributor Funding Request - Defining Fan Ownership (GladRobot)
 Stewardship team may cancel this agreement at any point.
@@ -45,21 +45,21 @@ To receive payment, members of this team must retain 100% of their airdropped al
 - ~~16667 USDC to commodore.eth on September 1, 2022~~
 - ~~16667 USDC to flexchapman.eth on September 1, 2022~~
 - ~~9167 USDC, 7500 $KRAUSE to mariolopes on September 1, 2022~~
-- 16667 USDC to commodore.eth on October 1, 2022
-- 16667 USDC to flexchapman.eth on October 1, 2022
-- 9167 USDC, 7500 $KRAUSE to mariolopes on October 1, 2022
+- ~~16667 USDC to commodore.eth on October 1, 2022~~
+- ~~16667 USDC to flexchapman.eth on October 1, 2022~~
+- ~~9167 USDC, 7500 $KRAUSE to mariolopes on October 1, 2022~~
 
 #### SpringHill Pitch Sprint + Partnership Process Documentation
 - 5000 USDC to ________ on _________
 
 #### Fund: Documentary style trailer telling KH & Ball Hogs story for season 1
-- $7,500 USDC upfront funding to `0xeFD9740AEBfF6039322A02206e8266F70DEc10ee`
-- 3500 $KRAUSE
+- ~~$7,500 USDC upfront funding to `0xeFD9740AEBfF6039322A02206e8266F70DEc10ee`~~
+- ~~3500 $KRAUSE~~
 - Crabtree will submit receipts.
 
 #### Uncle Jon & The Pig Pen Podcast
 
-- 4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022
+- ~~4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022~~
 - 6,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc upon completion
 
 #### NBA Ambassadors & Partnerships Budget
@@ -68,7 +68,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### Lewwwk Contributor Funding Request - Capital Coordination
 
-- 7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022
+- ~~7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022~~
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on October 31, 2022
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on November 30, 2022
 
@@ -78,7 +78,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### Project Philippines Court
 
-12,000 USDC Funds should be managed on a 2/3 multi-sig by Uncle Jon, Dbag, Mario Lopes, Glad Robot & Flex Chapman on September 27, 2022
+- ~~12,000 USDC Funds should be managed on a 2/3 multi-sig by Uncle Jon, Dbag, Mario Lopes, Glad Robot & Flex Chapman (0x6a2af6b207f5023cbf3b7c72936A9e3677aBc5E7) on September 27, 2022~~
 
 #### Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence
 
