@@ -149,6 +149,5 @@ To receive payment, members of this team must retain 100% of their airdropped al
 - 5000 $KRAUSE to 0x026Fa2cdC914274242c0b891E33232274b23c992 on January 1, 2023
 - 8000 USDC to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on January 1, 2023
 - 5000 $KRAUSE to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on January 1, 2023
-
 - 6000 USDC to Marketing Contributor TBD when requested
 - 5600 USDC to User Rewards + Software Budget TBD when requested
