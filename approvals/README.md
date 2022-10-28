@@ -125,8 +125,6 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### [MyJerry Budget Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb52e62cc00e1f13aefcaee873b37f57bd8d247a88421cce92db37b7b518f44db)
 
-- #### 
-
 - 8000 USDC to 0xe1Ef94D55E32400804200e9026110D3a7880226f on October 23, 2022
 - 5000 $KRAUSE to 0xe1Ef94D55E32400804200e9026110D3a7880226f on October 23, 2022
 - 8000 USDC to 0x026Fa2cdC914274242c0b891E33232274b23c992 on October 23, 2022
