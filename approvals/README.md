@@ -20,22 +20,22 @@ Stewardship team may cancel this agreement at any point.
 - ~~3500 $KRAUSE~~
 - Crabtree will submit receipts.
 
-### Uncle Jon & The Pig Pen Podcast
+### [Uncle Jon & The Pig Pen Podcast](https://snapshot.org/#/krausehouse.eth/proposal/0xb84bce22891c99f44ab856febdbacce234efdaed25d4e9f9a9e50b944dc3353a)
 
 - ~~4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022~~
 - 6,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc upon completion
 
-### NBA Ambassadors & Partnerships Budget
+### [NBA Ambassadors & Partnerships Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5b6e83053960bab9498a6359b506074acc00c4dd043d42e25d4188fc9b78e78a)
 
 - 200,000 $KRAUSE to NBA Ambassadors & Partnerships Team on October 1, 2022
 
-### Lewwwk Contributor Funding Request - Capital Coordination
+### [Lewwwk Contributor Funding Request - Capital Coordination](https://snapshot.org/#/krausehouse.eth/proposal/0x918537d7523f59a2ac228afb0a33d5842a7a14e9f22b745f436ad65d3478b621)
 
 - ~~7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022~~
 - ~~7,500 USDC 7,500 $KRAUSE igniter.eth on October 31, 2022~~
 - 7,500 USDC 7,500 $KRAUSE igniter.eth on November 30, 2022
 
-### Roadmapping the Future of Sport - Token Swap
+### [Roadmapping the Future of Sport - Token Swap](https://snapshot.org/#/krausehouse.eth/proposal/0xdec03920b6bfe02be1f603cec8ad5e1819ee39bf0e51b68612a30edff8a86ddd)
 
 - 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
 
@@ -107,7 +107,7 @@ _Note: Product Team not renewed._
 - 6000 USDC to Marketing Contributor TBD when requested
 - 5600 USDC to User Rewards + Software Budget TBD when requested
 
-### Core Team
+### [Core Team](https://snapshot.org/#/krausehouse.eth/proposal/0xb66d1a189921089aa3d9199eb976dfac8e69b7cdabdfd634d2d6508d7d7ac6c4)
 To receive payment, members of this team must retain 100% of their airdropped allocation of $KRAUSE balances for 2 years (as of Jan 1st, 2022) or until no longer being compensated as a full-time contributor.
 
 #### November 15th, 2022 (in arrears for Nov 1st)
