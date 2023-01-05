@@ -34,3 +34,7 @@ Guest Passes are intended to be issued to people who want to contribute, but are
 #### Intellectual Property
 
 Krause House DAO owns 100% of the IP for any of the projects that paid contributors have initiated and/or delivered.
+
+#### Move Away from Fixed $KRAUSE Payouts
+
+Proposals for compensation generally should not include a fixed $KRAUSE payout. $KRAUSE is governance weight, and thus it should generally be allocated to clear results and deliverables.  As a rule of thumb: Jerry’s submitting proposals for use of DAO funds are speculating on their ability to allocate those funds. If they are productive in their use, they should accrue more governance power, if they are not, they should not accrue more governance power.
