@@ -254,25 +254,16 @@ To receive payment, members of this team must retain 100% of their airdropped al
 1,000 USDC discretionary spending (travel, accommodations, & supplies) reimbursement to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 2,500 KRAUSE upon completion of work to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 
-### [Capital Coordination Stream Continuation](https://snapshot.org/#/krausehouse.eth/proposal/0xbffae4acb68d13b01149fd61f9a510e14154d9753917357db06da0a68cfd0d8a)
+### [Uncle Jon OTE Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x36b5c6e18dfb44fb9d57db1de2933d2057828bf5f47d774d97d7e31f6802a629)
 
-#### December 31st, 2022
+#### January 1st, 2023
 
-~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 
-#### January 31st, 2023
+#### February 1st, 2023
 
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 
-#### February 28th, 2023
+#### March 1st, 2023
 
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-
-#### March 31st, 2023
-
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
