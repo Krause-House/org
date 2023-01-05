@@ -266,3 +266,17 @@ To receive payment, members of this team must retain 100% of their airdropped al
 250 USDC per completed podcast episode to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 1,000 USDC discretionary spending (travel, accommodations, & supplies) reimbursement to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 2,500 KRAUSE upon completion of work to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+
+### [Uncle Jon OTE Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x36b5c6e18dfb44fb9d57db1de2933d2057828bf5f47d774d97d7e31f6802a629)
+
+#### January 1st, 2023
+
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+
+#### February 1st, 2023
+
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+
+#### March 1st, 2023
+
+5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
