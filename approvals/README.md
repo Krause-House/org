@@ -7,7 +7,7 @@ We are in the process of migrating our "source of truth".  In the case of any co
 
 ### Contributor Funding Request - Defining Fan Ownership (GladRobot)
 Stewardship team may cancel this agreement at any point.
-- ~~20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022~~
+- 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bconon Oct 1, 2022
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Dec 1, 2022
@@ -28,12 +28,6 @@ Stewardship team may cancel this agreement at any point.
 ### [NBA Ambassadors & Partnerships Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5b6e83053960bab9498a6359b506074acc00c4dd043d42e25d4188fc9b78e78a)
 
 - 200,000 $KRAUSE to NBA Ambassadors & Partnerships Team on October 1, 2022
-
-### [Lewwwk Contributor Funding Request - Capital Coordination](https://snapshot.org/#/krausehouse.eth/proposal/0x918537d7523f59a2ac228afb0a33d5842a7a14e9f22b745f436ad65d3478b621)
-
-- ~~7,500 USDC 7,500 $KRAUSE igniter.eth on September 30, 2022~~
-- ~~7,500 USDC 7,500 $KRAUSE igniter.eth on October 31, 2022~~
-- 7,500 USDC 7,500 $KRAUSE igniter.eth on November 30, 2022
 
 ### [Roadmapping the Future of Sport - Token Swap](https://snapshot.org/#/krausehouse.eth/proposal/0xdec03920b6bfe02be1f603cec8ad5e1819ee39bf0e51b68612a30edff8a86ddd)
 
@@ -57,7 +51,7 @@ Stewardship team may cancel this agreement at any point.
 ### [Contributor Funding Request for China Mod proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x7cad640e6ce584b7f07386580258e499f45577c4e8f3b687d8b0ffa4b66976d9)
 
 - ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on October 10, 2022~~
-- 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on November 1, 2022
+- ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on November 1, 2022~~
 - 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on December 1, 2022
 
 ### [Bayesian Baller Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x1c017342c3b85806c5e00cb567ea8acb61d819b3f3d90f48c2a50163a29026d9)
@@ -66,17 +60,10 @@ Stewardship team may cancel this agreement at any point.
 - ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on October 10, 2022~~
 - ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on November 1, 2022~~
 - ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on November 1, 2022~~
-- 2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022
-- 2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022
-- 2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023
-- 2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023
-
-### [Product Team New Recruit: Dogstoevsky#0585](https://snapshot.org/#/krausehouse.eth/proposal/0xa504a961c74976bdb708af5a12730740d68c56e0bc200f824639a0bea21090e4)
-
-- ~~8000 USDC to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on October 15, 2022~~
-- ~~5000 $KRAUSE to 0xb9E10cd54eD3A02063f97E53eb3DCeD2b970994a on October 15, 2022~~
-
-_Note: Product Team not renewed._
+- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022~~
+- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022~~
+- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023~~
+- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023~~
 
 ### [MyJerry Budget Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb52e62cc00e1f13aefcaee873b37f57bd8d247a88421cce92db37b7b518f44db)
 
@@ -242,13 +229,13 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### November 21st, 2022 (in arrears for Nov 14th)
 
-10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72
-5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72
+~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
+~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
 
 #### December 15th, 2022
 
-10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72
-5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72
+~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
+~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
 
 #### January 15th, 2023
 
