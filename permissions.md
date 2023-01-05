@@ -59,6 +59,7 @@ Responsibility: Ability to update the settings of the Snapshot space.
 #### Krause House Brand Licensees
 
 - Krause House Capital
+- Krause House Capital Collective
 
 #### Krause House IP Licensees
 
