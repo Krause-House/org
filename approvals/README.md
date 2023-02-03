@@ -113,8 +113,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### February 1st, 2023
 
-~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
 
 ### [All In For Sport](https://snapshot.org/#/krausehouse.eth/proposal/0xb9314e7a8b8e273351deeda3e15d506043c7cfa3ea7b5e1a7577adf376bf0245)
 
