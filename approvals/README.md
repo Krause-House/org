@@ -223,3 +223,9 @@ $1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion 
 #### March 1st, 2023
 
 6000 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
+
+### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
+
+#### To be distributed as expense reimbursement via Utopia
+
+Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
