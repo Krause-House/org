@@ -1,7 +1,7 @@
 ## Current Approvals
 We are in the process of migrating our "source of truth".  In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
-### Gitcoin DEI Grant Program Sponsorship and Participation Proposal
+### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
 - ~~20000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
 - 20000 $KRAUSE to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
 
