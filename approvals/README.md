@@ -48,12 +48,6 @@ Stewardship team may cancel this agreement at any point.
 - 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
 - $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
 
-### [Contributor Funding Request for China Mod proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x7cad640e6ce584b7f07386580258e499f45577c4e8f3b687d8b0ffa4b66976d9)
-
-- ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on October 10, 2022~~
-- ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on November 1, 2022~~
-- 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e on December 1, 2022
-
 ### [Bayesian Baller Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x1c017342c3b85806c5e00cb567ea8acb61d819b3f3d90f48c2a50163a29026d9)
 
 - ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on October 10, 2022~~
@@ -244,3 +238,17 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+
+### [Contributor Funding Request for China Mod (Renewal)](https://snapshot.org/#/krausehouse.eth/proposal/0xc626f3b09fe40a2fcae46358ed79e35a6288ad9a0f3ec7283293e20a542ff1af)
+
+#### January 1st, 2023
+
+~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
+
+#### February 1st, 2023
+
+250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+
+#### March 1st, 2023
+
+250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
