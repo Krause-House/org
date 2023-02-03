@@ -267,4 +267,4 @@ $1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion 
 
 #### Upon receiving receipts for ETH Denver trip
 
-Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54 
