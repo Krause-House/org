@@ -23,7 +23,8 @@ Stewardship team may cancel this agreement at any point.
 
 ### [Roadmapping the Future of Sport - Token Swap](https://snapshot.org/#/krausehouse.eth/proposal/0xdec03920b6bfe02be1f603cec8ad5e1819ee39bf0e51b68612a30edff8a86ddd)
 
-- 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
+- ~~10,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
+- 5,000 $KRAUSE to 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
 
 ### [Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence](https://snapshot.org/#/krausehouse.eth/proposal/0x2480455a39d1dd2b885e12c5749b4db6b27beb04f670fd4aea5f5f8d75cb5c37)
 
