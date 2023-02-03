@@ -253,6 +253,16 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
 
+### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
+
+#### To be distributed as work is completed via Utopia
+
+Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
+
+### [Provide Funding for a 50pt NBA Game Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0xea4e4151cb0e673b525829fd9e3011cd703cf3715c45803936e9fc36866ec748)
+
+$1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion rate at time of Juicebox project creation) to a TBD Juicebox project
+
 ### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
 
 #### Upon receiving receipts for ETH Denver trip
