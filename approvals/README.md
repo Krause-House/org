@@ -226,3 +226,20 @@ $1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion 
 #### To be distributed as expense reimbursement via Utopia
 
 Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+### [Proposal to Renew Medium Budget for Krause House DAO](https://snapshot.org/#/krausehouse.eth/proposal/0x1ea3df83d54d1d42a3a26ef4bc3232a707691399924b94982c4fa6e173c77eca)
+
+#### Feb 1st, 2023
+
+330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+
+#### March 1st, 2023
+
+330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+
+#### April 1st, 2023
+
+330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
