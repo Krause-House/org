@@ -25,7 +25,7 @@ Stewardship team may cancel this agreement at any point.
 
 - 15,000 $KRAUSE 0x731c837121C15e1e7e3cfc0E2588f4d0B35FdD48 on October 1, 2022
 
-### Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence
+### [Bounty Budget - Researching Future Investment Opportunities Through Collective Intelligence](https://snapshot.org/#/krausehouse.eth/proposal/0x2480455a39d1dd2b885e12c5749b4db6b27beb04f670fd4aea5f5f8d75cb5c37)
 
 - 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on September 25, 2022
 - 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
