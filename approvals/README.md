@@ -258,3 +258,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### To be distributed as work is completed via Utopia
 
 Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
+
+### [Provide Funding for a 50pt NBA Game Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0xea4e4151cb0e673b525829fd9e3011cd703cf3715c45803936e9fc36866ec748)
+
+$1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion rate at time of Juicebox project creation) to a TBD Juicebox project
