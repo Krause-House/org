@@ -12,7 +12,7 @@ Stewardship team may cancel this agreement at any point.
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Dec 1, 2022
 
-### SpringHill Pitch Sprint + Partnership Process Documentation
+### [SpringHill Pitch Sprint + Partnership Process Documentation](https://snapshot.org/#/krausehouse.eth/proposal/0x7e083eb1ed483c2a4b660e35e9889f3c9467e545b8c577bddbacb35d4f84a615)
 - 5000 USDC to ________ on _________
 
 ### [Uncle Jon & The Pig Pen Podcast](https://snapshot.org/#/krausehouse.eth/proposal/0xb84bce22891c99f44ab856febdbacce234efdaed25d4e9f9a9e50b944dc3353a)
