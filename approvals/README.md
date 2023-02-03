@@ -5,7 +5,7 @@ We are in the process of migrating our "source of truth".  In the case of any co
 - ~~20000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
 - 20000 $KRAUSE to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
 
-### Contributor Funding Request - Defining Fan Ownership (GladRobot)
+### [Contributor Funding Request - Defining Fan Ownership (GladRobot)](https://snapshot.org/#/krausehouse.eth/proposal/0xbf47141bbc522c539580a2f111b137615cfb92647c8c0878434a9ac2108fb2ff)
 Stewardship team may cancel this agreement at any point.
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022
 - 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bconon Oct 1, 2022
