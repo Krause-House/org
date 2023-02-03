@@ -15,11 +15,6 @@ Stewardship team may cancel this agreement at any point.
 ### SpringHill Pitch Sprint + Partnership Process Documentation
 - 5000 USDC to ________ on _________
 
-### Fund: Documentary style trailer telling KH & Ball Hogs story for season 1
-- ~~$7,500 USDC upfront funding to `0xeFD9740AEBfF6039322A02206e8266F70DEc10ee`~~
-- ~~3500 $KRAUSE~~
-- Crabtree will submit receipts.
-
 ### [Uncle Jon & The Pig Pen Podcast](https://snapshot.org/#/krausehouse.eth/proposal/0xb84bce22891c99f44ab856febdbacce234efdaed25d4e9f9a9e50b944dc3353a)
 
 - ~~4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022~~
@@ -39,52 +34,8 @@ Stewardship team may cancel this agreement at any point.
 - 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
 - 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
 
-### Kaf Medium Proposal
-
-- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on October 15, 2022 
-- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on October 15, 2022 
-- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on November 15, 2022
-- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on November 15, 2022
-- 350 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
-- $350 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55 on December 15, 2022
-
-### [Bayesian Baller Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x1c017342c3b85806c5e00cb567ea8acb61d819b3f3d90f48c2a50163a29026d9)
-
-- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on October 10, 2022~~
-- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on October 10, 2022~~
-- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on November 1, 2022~~
-- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on November 1, 2022~~
-- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022~~
-- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on December 1, 2022~~
-- ~~2,500 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023~~
-- ~~2,500 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F on January 1, 2023~~
-
 ### [MyJerry Budget Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb52e62cc00e1f13aefcaee873b37f57bd8d247a88421cce92db37b7b518f44db)
 
-- 8000 USDC to 0xe1Ef94D55E32400804200e9026110D3a7880226f on October 23, 2022
-- 5000 $KRAUSE to 0xe1Ef94D55E32400804200e9026110D3a7880226f on October 23, 2022
-- 8000 USDC to 0x026Fa2cdC914274242c0b891E33232274b23c992 on October 23, 2022
-- 5000 $KRAUSE to 0x026Fa2cdC914274242c0b891E33232274b23c992 on October 23, 2022
-- 8000 USDC to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on October 23, 2022
-- 5000 $KRAUSE to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on October 23, 2022
-- 8000 USDC to 0xe1Ef94D55E32400804200e9026110D3a7880226f on November 1, 2022
-- 5000 $KRAUSE to 0xe1Ef94D55E32400804200e9026110D3a7880226f on November 1, 2022
-- 8000 USDC to 0x026Fa2cdC914274242c0b891E33232274b23c992 on November 1, 2022
-- 5000 $KRAUSE to 0x026Fa2cdC914274242c0b891E33232274b23c992 on November 1, 2022
-- 8000 USDC to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on November 1, 2022
-- 5000 $KRAUSE to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on November 1, 2022
-- 8000 USDC to 0xe1Ef94D55E32400804200e9026110D3a7880226f on December 1, 2022
-- 5000 $KRAUSE to 0xe1Ef94D55E32400804200e9026110D3a7880226f on December 1, 2022
-- 8000 USDC to 0x026Fa2cdC914274242c0b891E33232274b23c992 on December 1, 2022
-- 5000 $KRAUSE to 0x026Fa2cdC914274242c0b891E33232274b23c992 on December 1, 2022
-- 8000 USDC to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on December 1, 2022
-- 5000 $KRAUSE to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on December 1, 2022
-- 8000 USDC to 0xe1Ef94D55E32400804200e9026110D3a7880226f on January 1, 2023
-- 5000 $KRAUSE to 0xe1Ef94D55E32400804200e9026110D3a7880226f on January 1, 2023
-- 8000 USDC to 0x026Fa2cdC914274242c0b891E33232274b23c992 on January 1, 2023
-- 5000 $KRAUSE to 0x026Fa2cdC914274242c0b891E33232274b23c992 on January 1, 2023
-- 8000 USDC to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on January 1, 2023
-- 5000 $KRAUSE to 0x95ADD9Dc65d6e26DB140da8771e17571795f76A4 on January 1, 2023
 - 6000 USDC to Marketing Contributor TBD when requested
 - 5600 USDC to User Rewards + Software Budget TBD when requested
 
@@ -123,13 +74,13 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### February 1, 2023
 
-9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+~~9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+~~7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
-14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
-2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+~~14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
+~~2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
-16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+~~16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
 
 #### March 1, 2023
 
@@ -155,18 +106,18 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### December 1th, 2022
 
-5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
 
 #### January 1st, 2023
 
-5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
 
 #### February 1st, 2023
 
-5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
 
 ### [All In For Sport](https://snapshot.org/#/krausehouse.eth/proposal/0xb9314e7a8b8e273351deeda3e15d506043c7cfa3ea7b5e1a7577adf376bf0245)
 
@@ -188,8 +139,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### January 15th, 2023
 
-10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72
-5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72
+~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
+~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
 
 ### [Uncle Jon Workstream: Karate Combat & OTE Projects](https://snapshot.org/#/krausehouse.eth/proposal/0xb69c0a763e0d44c618d778de1c3e538df17abf86af730c2a5013e6f3401a4802)
 
@@ -207,11 +158,11 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### January 1st, 2023
 
-5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+~~5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39~~
 
 #### February 1st, 2023
 
-5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+~~5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39~~
 
 #### March 1st, 2023
 
@@ -226,8 +177,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### January 31st, 2023
 
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 #### February 28th, 2023
 
@@ -262,6 +213,16 @@ Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
 ### [Provide Funding for a 50pt NBA Game Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0xea4e4151cb0e673b525829fd9e3011cd703cf3715c45803936e9fc36866ec748)
 
 $1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion rate at time of Juicebox project creation) to a TBD Juicebox project
+
+### [DBAG Two Month Stream](https://snapshot.org/#/krausehouse.eth/proposal/0x952ffd125cb502ab9545153d60b8d8720816fa471592d80e835fce4890fd1d01)
+
+#### Feb 1st, 2023
+
+6000 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
+
+#### March 1st, 2023
+
+6000 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
 ### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
 
