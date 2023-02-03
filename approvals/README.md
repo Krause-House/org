@@ -244,3 +244,17 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 
 330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
 330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+
+### [New Orleans Pelicans x Krause House](https://snapshot.org/#/krausehouse.eth/proposal/0x5304821e872c84f8dbd68b6100e54955ab2e0b9907d2b4b57dda1ea9821ee7b7)
+
+#### Deliverable upon KH meeting with Dennis or Gayle
+
+25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
+
+#### Deliverable upon Soothsquad participating in meeting w/ Dennis or Gayle
+
+3,500 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
+
+#### Deliverable upon closing LOI with Pelicans
+
+25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
