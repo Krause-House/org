@@ -252,3 +252,9 @@ To receive payment, members of this team must retain 100% of their airdropped al
 #### March 1st, 2023
 
 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+
+### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
+
+#### Upon receiving receipts for ETH Denver trip
+
+Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
