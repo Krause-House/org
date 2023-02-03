@@ -136,8 +136,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### January 15th, 2023
 
-~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
-~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
+10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72
+5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72
 
 ### [Uncle Jon Workstream: Karate Combat & OTE Projects](https://snapshot.org/#/krausehouse.eth/proposal/0xb69c0a763e0d44c618d778de1c3e538df17abf86af730c2a5013e6f3401a4802)
 
