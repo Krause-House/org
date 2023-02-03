@@ -2,35 +2,34 @@
 
 ### The following is a list of permissions delegated by the DAO, and the delegates assigned those permissions.
 
-#### Multisig: 4/7 Gnosis Safe
+#### Multisig: 4/6 Gnosis Safe
 
 - Commodore
-- Flex Champman
+- Flex Chapman
 - Mario Lopes
 - Spice Cube
 - Lewwwwk
 - Magnus
-- Dogstoevsky
 
 #### Snapshot Authors ("Stewards")
 
 Responsibility: Send community proposals to Snapshot, reject unclear or blatantly malicious proposals.
 
 - Commodore
-- Flex Champman
+- Flex Chapman
 - Mario Lopes
 - Spice Cube
 - Lewwwwk
 - Magnus
-- Dogstoevsky
 - Glad Robot
+- Shanny#4955
 
 #### Snapshot Admins
 
 Responsibility: Ability to update the settings of the Snapshot space.
 
 - Commodore
-- Flex Champman
+- Flex Chapman
 - Spice Cube
 
 #### Represent KH in Negotiations (Acquisitions)
