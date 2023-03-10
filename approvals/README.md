@@ -100,45 +100,11 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
 
-### [Fan-Led Content Lab](https://snapshot.org/#/krausehouse.eth/proposal/0x9cb9f1027e3c578c4a7f98e4caeed1cd30af05c1f213972df09cafef85961788)
-
-#### December 1th, 2022
-
-~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-#### January 1st, 2023
-
-~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-~~3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-#### February 1st, 2023
-
-5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-3,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-
 ### [All In For Sport](https://snapshot.org/#/krausehouse.eth/proposal/0xb9314e7a8b8e273351deeda3e15d506043c7cfa3ea7b5e1a7577adf376bf0245)
 
 #### November 23rd, 2022
 
 15,000 KRAUSE to AIFS wallet
-
-### [Engineering Lead (greg)](https://snapshot.org/#/krausehouse.eth/proposal/0xfcca212c68a990a73773024cf446ea9d1dee16b12dbdb602c076316fe8519c3b)
-
-#### November 21st, 2022 (in arrears for Nov 14th)
-
-~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
-~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
-
-#### December 15th, 2022
-
-~~10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
-~~5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72~~
-
-#### January 15th, 2023
-
-10,000 USDC to 0x540A6950376edC97D449EcCfd1987C100843Be72
-5,000 KRAUSE to 0x540A6950376edC97D449EcCfd1987C100843Be72
 
 ### [Uncle Jon Workstream: Karate Combat & OTE Projects](https://snapshot.org/#/krausehouse.eth/proposal/0xb69c0a763e0d44c618d778de1c3e538df17abf86af730c2a5013e6f3401a4802)
 
@@ -151,20 +117,6 @@ To receive payment, members of this team must retain 100% of their airdropped al
 250 USDC per completed podcast episode to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 1,000 USDC discretionary spending (travel, accommodations, & supplies) reimbursement to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 2,500 KRAUSE upon completion of work to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
-
-### [Uncle Jon OTE Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x36b5c6e18dfb44fb9d57db1de2933d2057828bf5f47d774d97d7e31f6802a629)
-
-#### January 1st, 2023
-
-~~5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39~~
-
-#### February 1st, 2023
-
-~~5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39~~
-
-#### March 1st, 2023
-
-5,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 
 ### [Capital Coordination Stream Continuation](https://snapshot.org/#/krausehouse.eth/proposal/0xbffae4acb68d13b01149fd61f9a510e14154d9753917357db06da0a68cfd0d8a)
 
@@ -180,8 +132,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### February 28th, 2023
 
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 #### March 31st, 2023
 
@@ -196,21 +148,17 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### February 1st, 2023
 
-250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
 
 #### March 1st, 2023
 
-250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
 
 ### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
 
 #### To be distributed as work is completed via Utopia
 
 Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
-
-### [Provide Funding for a 50pt NBA Game Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0xea4e4151cb0e673b525829fd9e3011cd703cf3715c45803936e9fc36866ec748)
-
-$1000 USD in ETH (exact ETH amount to be determined based on USD/ETH conversion rate at time of Juicebox project creation) to a TBD Juicebox project
 
 ### [DBAG Two Month Stream](https://snapshot.org/#/krausehouse.eth/proposal/0x952ffd125cb502ab9545153d60b8d8720816fa471592d80e835fce4890fd1d01)
 
@@ -232,8 +180,8 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 
 #### Feb 1st, 2023
 
-330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
-330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
+~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
 
 #### March 1st, 2023
 
@@ -258,3 +206,13 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 #### Deliverable upon closing LOI with Pelicans
 
 25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
+
+### [DBag KRAUSE Allocations](https://snapshot.org/#/krausehouse.eth/proposal/0x0bb2683ae4f4436bdd4c88e1e418c62c810d520910cda1c12d86c754d4299c0c)
+
+#### Feb 1st, 2023
+
+~~3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee~~
+
+#### March 1st, 2023
+
+3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
