@@ -1,5 +1,5 @@
-## Current Approvals (updated Feb 3, 2023)
-We are in the process of migrating our "source of truth".  In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
+## Current Approvals (updated March 10, 2023)
+In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
 - ~~20000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
@@ -108,10 +108,6 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 ### [Uncle Jon Workstream: Karate Combat & OTE Projects](https://snapshot.org/#/krausehouse.eth/proposal/0xb69c0a763e0d44c618d778de1c3e538df17abf86af730c2a5013e6f3401a4802)
 
-#### November 21st, 2022
-
-~~7,000 USDC to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39~~
-
 #### Contingent Payments
 
 250 USDC per completed podcast episode to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
@@ -160,16 +156,6 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
 
-### [DBAG Two Month Stream](https://snapshot.org/#/krausehouse.eth/proposal/0x952ffd125cb502ab9545153d60b8d8720816fa471592d80e835fce4890fd1d01)
-
-#### Feb 1st, 2023
-
-~~6000 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee~~
-
-#### March 1st, 2023
-
-6000 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
-
 ### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
 
 #### To be distributed as expense reimbursement via Utopia
@@ -211,11 +197,11 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 
 #### Feb 1st, 2023
 
-~~3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee~~
+3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
 #### March 1st, 2023
 
-3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
+~~3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee~~
 
 ### [AI Application 5-Week Sprint](https://snapshot.org/#/krausehouse.eth/proposal/0x92ebd3b074a804d5d2cdc48072a530e169b15efed1c68230bf0e486f3c7e1f21)
 
