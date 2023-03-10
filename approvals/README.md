@@ -40,16 +40,6 @@ Stewardship team may cancel this agreement at any point.
 ### [Core Team](https://snapshot.org/#/krausehouse.eth/proposal/0xb66d1a189921089aa3d9199eb976dfac8e69b7cdabdfd634d2d6508d7d7ac6c4)
 To receive payment, members of this team must retain 100% of their airdropped allocation of $KRAUSE balances for 2 years (as of Jan 1st, 2022) or until no longer being compensated as a full-time contributor.
 
-#### November 15th, 2022 (in arrears for Nov 1st)
-
-~~9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-~~7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-
-~~14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
-~~2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
-
-~~16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
-
 #### December 1, 2022
 
 ~~9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
@@ -82,6 +72,16 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### March 1, 2023
 
+~~9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+~~7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+
+~~14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
+~~2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
+
+~~16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+
+#### April 1, 2023
+
 9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 
@@ -90,7 +90,7 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
 
-#### April 1, 2023
+#### May 1, 2023
 
 9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
