@@ -216,3 +216,9 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 #### March 1st, 2023
 
 3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
+
+### [AI Application 5-Week Sprint](https://snapshot.org/#/krausehouse.eth/proposal/0x92ebd3b074a804d5d2cdc48072a530e169b15efed1c68230bf0e486f3c7e1f21)
+
+#### March 31st, 2023
+
+12,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
