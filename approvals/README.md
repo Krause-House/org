@@ -231,3 +231,9 @@ Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
 ####  March 27, 2023
 
 25,000 USDC to 0xCC17001246255Cb59847974af59fd4321f3ca55F
+
+### [Uncle Jon KRAUSE Allocation](https://snapshot.org/#/krausehouse.eth/proposal/0x654fa4c1a2efc6f8997c6b9586efd332b44cfa405e5671075158bb0d12010219)
+
+####  March 30, 2023
+
+7500 KRAUSE to Uncle Jon 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
