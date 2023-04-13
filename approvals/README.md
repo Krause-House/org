@@ -1,4 +1,4 @@
-## Current Approvals (updated March 10, 2023)
+## Current Approvals (updated April 13, 2023)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
@@ -82,13 +82,13 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### April 1, 2023
 
-9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+~~9167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+~~7500 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
-14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
-2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+~~14167 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
+~~2500 KRAUSE to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
-16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+~~16667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
 
 #### May 1, 2023
 
@@ -133,22 +133,8 @@ To receive payment, members of this team must retain 100% of their airdropped al
 
 #### March 31st, 2023
 
-7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-
-### [Contributor Funding Request for China Mod (Renewal)](https://snapshot.org/#/krausehouse.eth/proposal/0xc626f3b09fe40a2fcae46358ed79e35a6288ad9a0f3ec7283293e20a542ff1af)
-
-#### January 1st, 2023
-
-~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
-
-#### February 1st, 2023
-
-~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
-
-#### March 1st, 2023
-
-~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
+~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 ### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
 
@@ -161,23 +147,6 @@ Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
 #### To be distributed as expense reimbursement via Utopia
 
 Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-### [Proposal to Renew Medium Budget for Krause House DAO](https://snapshot.org/#/krausehouse.eth/proposal/0x1ea3df83d54d1d42a3a26ef4bc3232a707691399924b94982c4fa6e173c77eca)
-
-#### Feb 1st, 2023
-
-~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-
-#### March 1st, 2023
-
-330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
-330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
-
-#### April 1st, 2023
-
-330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
-330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
 
 ### [New Orleans Pelicans x Krause House](https://snapshot.org/#/krausehouse.eth/proposal/0x5304821e872c84f8dbd68b6100e54955ab2e0b9907d2b4b57dda1ea9821ee7b7)
 
@@ -192,22 +161,6 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 #### Deliverable upon closing LOI with Pelicans
 
 25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
-
-### [DBag KRAUSE Allocations](https://snapshot.org/#/krausehouse.eth/proposal/0x0bb2683ae4f4436bdd4c88e1e418c62c810d520910cda1c12d86c754d4299c0c)
-
-#### Feb 1st, 2023
-
-3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
-
-#### March 1st, 2023
-
-~~3000 KRAUSE USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee~~
-
-### [AI Application 5-Week Sprint](https://snapshot.org/#/krausehouse.eth/proposal/0x92ebd3b074a804d5d2cdc48072a530e169b15efed1c68230bf0e486f3c7e1f21)
-
-#### March 31st, 2023
-
-12,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
 
 ### [Donate additional funds upon NBA player claiming the 50 pt Charity Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0x29d57dcf9afc3e1b43ae04ee429cd78427ccb18ec08473d116b5d83ad6fead11)
 
@@ -272,3 +225,9 @@ Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
 #### September 1, 2023
 
 Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+### [Retainer Budget for NBA Ownership Acquisition Counsel](https://snapshot.org/#/krausehouse.eth/proposal/0x60b27939db69c29cd8dd7c5320d217428cc5182e2d7329ee848f8dc851ff9632)
+
+####  March 27, 2023
+
+25,000 USDC to 0xCC17001246255Cb59847974af59fd4321f3ca55F
