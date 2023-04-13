@@ -208,3 +208,9 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 #### March 31st, 2023
 
 12,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
+
+### [Donate additional funds upon NBA player claiming the 50 pt Charity Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0x29d57dcf9afc3e1b43ae04ee429cd78427ccb18ec08473d116b5d83ad6fead11)
+
+#### March 13, 2023
+
+4,100 USDC to https://juicebox.money/v2/p/436
