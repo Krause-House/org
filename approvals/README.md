@@ -114,28 +114,6 @@ To receive payment, members of this team must retain 100% of their airdropped al
 1,000 USDC discretionary spending (travel, accommodations, & supplies) reimbursement to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 2,500 KRAUSE upon completion of work to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
 
-### [Capital Coordination Stream Continuation](https://snapshot.org/#/krausehouse.eth/proposal/0xbffae4acb68d13b01149fd61f9a510e14154d9753917357db06da0a68cfd0d8a)
-
-#### December 31st, 2022
-
-~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-
-#### January 31st, 2023
-
-~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-
-#### February 28th, 2023
-
-~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-
-#### March 31st, 2023
-
-~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-
 ### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
 
 #### To be distributed as work is completed via Utopia
@@ -204,7 +182,7 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 
 #### April 1, 2023
 
-Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### May 1, 2023
 
@@ -237,3 +215,9 @@ Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
 ####  March 30, 2023
 
 7500 KRAUSE to Uncle Jon 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
+
+### [H-O-G Project Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x336d15c54bddebe16c29c55fc77931dcc9685864b9620a384a5716dcdc3d5f61)
+
+####  April 2, 2023
+
+1 ETH to 0xC4F8361c7d19DF414fa387F6227FC6Ecb6d8D1be
