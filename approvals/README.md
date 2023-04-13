@@ -214,3 +214,29 @@ Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 #### March 13, 2023
 
 4,100 USDC to https://juicebox.money/v2/p/436
+
+### [Podcast Editing Service (via WillemDafaux)](https://snapshot.org/#/krausehouse.eth/proposal/0xdab304195286d1a7848dccce3c082ce6443f2060345f6b48c1c657dcb021182c)
+
+#### April 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### May 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### June 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### July 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### August 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### September 1, 2023
+
+Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
