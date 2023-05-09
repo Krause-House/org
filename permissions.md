@@ -7,9 +7,9 @@
 - Commodore
 - Flex Chapman
 - Mario Lopes
-- Spice Cube
 - Lewwwwk
 - Magnus
+- Shanny
 
 #### Snapshot Authors ("Stewards")
 
