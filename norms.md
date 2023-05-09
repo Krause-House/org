@@ -35,6 +35,6 @@ Guest Passes are intended to be issued to people who want to contribute, but are
 
 Krause House DAO owns 100% of the IP for any of the projects that paid contributors have initiated and/or delivered.
 
-#### Move Away from Fixed $KRAUSE Payouts
+#### kTx Signers should also be Stewards
 
-Proposals for compensation generally should not include a fixed $KRAUSE payout. $KRAUSE is governance weight, and thus it should generally be allocated to clear results and deliverables.  As a rule of thumb: Jerry’s submitting proposals for use of DAO funds are speculating on their ability to allocate those funds. If they are productive in their use, they should accrue more governance power, if they are not, they should not accrue more governance power.
+To ensure the highest context possible, all kTx Signers (multi-sig) should also be Stewards. Stewards have the highest context within the DAO given their role to validate proposals.
