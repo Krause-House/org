@@ -1,4 +1,4 @@
-## Current Approvals (updated April 13, 2023)
+## Current Approvals (updated May 9, 2023)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
@@ -247,3 +247,45 @@ Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
 #### May 8, 2023
 
 60,000 USDC to Ball Hogs 2023 Multi-Sig (TBD)
+
+### [Commodore & Flex Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x4acbeba59b7bc05ad7070c6e8dd387606641c4a2c455f88e79858f70c4cc3044)
+
+#### June 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### July 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### August 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### September 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### October 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### November 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### December 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+
+#### January 1, 2023
+
+16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
