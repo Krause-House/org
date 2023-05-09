@@ -74,3 +74,7 @@ Responsibility: Ability to update the settings of the Snapshot space.
 - itsunclejon#7365
 - crabtree#1085
 - AlxBrands#0394
+
+#### Flexible Stablecoin Payouts 
+
+kTx team has the permission to be flexible in stablecoin payouts (USDC, USDT, DAI) via Utopia as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xed47f38438e35d9a113199a2e25f43b201eff321ccee9f9d1eb2c64fd20a79e7).
