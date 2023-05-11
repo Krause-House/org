@@ -31,10 +31,10 @@ The Stewards Team is responsible for ensuring all proposals put to vote are vali
 
 Guest Passes are intended to be issued to people who want to contribute, but are unable to afford an NFT. Guest passes should be revoked when that contributor no longer needs access to do their work.
 
-#### Intellectual Property
+#### [Intellectual Property](https://snapshot.org/#/krausehouse.eth/proposal/0xe86e79fb6d9951878e13f87a773e56ad3d06ea3e12d051b79ce9263551ca7b87)
 
 Krause House DAO owns 100% of the IP for any of the projects that paid contributors have initiated and/or delivered.
 
-#### kTx Signers should also be Stewards
+#### [kTx Signers should also be Stewards](https://snapshot.org/#/krausehouse.eth/proposal/0x5ef407bd0192b30029f0001e5840b54117dbbedc21daf60ddaae7b14881d0403)
 
 To ensure the highest context possible, all kTx Signers (multi-sig) should also be Stewards. Stewards have the highest context within the DAO given their role to validate proposals.
