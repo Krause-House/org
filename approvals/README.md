@@ -43,14 +43,6 @@ Stewardship team may cancel this agreement at any point.
 
 15,000 KRAUSE to AIFS wallet
 
-### [Uncle Jon Workstream: Karate Combat & OTE Projects](https://snapshot.org/#/krausehouse.eth/proposal/0xb69c0a763e0d44c618d778de1c3e538df17abf86af730c2a5013e6f3401a4802)
-
-#### Contingent Payments
-
-250 USDC per completed podcast episode to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
-1,000 USDC discretionary spending (travel, accommodations, & supplies) reimbursement to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
-2,500 KRAUSE upon completion of work to 0x2D5803Cb5Cb2Bd90eb242e0162AE5E25B7a31b39
-
 ### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
 
 #### To be distributed as work is completed via Utopia
