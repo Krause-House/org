@@ -18,7 +18,6 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 - Commodore
 - Flex Chapman
 - Mario Lopes
-- Spice Cube
 - Lewwwwk
 - Magnus
 - Glad Robot
@@ -30,7 +29,6 @@ Responsibility: Ability to update the settings of the Snapshot space.
 
 - Commodore
 - Flex Chapman
-- Spice Cube
 
 #### Represent KH in Negotiations (Acquisitions)
 
