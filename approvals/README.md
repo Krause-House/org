@@ -320,3 +320,29 @@ $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 #### September 1, 2023
 
 $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
+
+### [DAO Partnerships Strategist + Project Stream Advisor](https://snapshot.org/#/krausehouse.eth/proposal/0x9fceaae4089d1e7d1b5c7c0358076c71ac613b2cfa4f65a746961c803b1a84e1)
+
+#### June 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+#### July 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+#### August 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+#### September 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+#### October 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
+
+#### November 1st, 2023
+
+5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
