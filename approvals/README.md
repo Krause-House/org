@@ -1,4 +1,4 @@
-## Current Approvals (updated May 9, 2023)
+## Current Approvals (updated June 5, 2023)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
@@ -84,8 +84,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1, 2023
 
-* 8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* 1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
+* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
+* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
 
 #### July 1, 2023
 
@@ -119,7 +119,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1, 2023
 
-* Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### July 1, 2023
 
@@ -137,11 +137,11 @@ Stewardship team may cancel this agreement at any point.
 
 #### May 1, 2023
 
-* 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+* ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
 
 #### June 1, 2023
 
-* 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
+* ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
 
 #### July 1, 2023
 
@@ -160,8 +160,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1, 2023
 
-* 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-* 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* ~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+* ~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 #### July 1, 2023
 
@@ -182,8 +182,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1, 2023
 
-* 5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-* 2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
 
 #### July 1, 2023
 
@@ -199,13 +199,13 @@ Stewardship team may cancel this agreement at any point.
 
 #### May 1, 2023
 
-* Up to 2,000 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
-* Up to 2,000 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
+* ~~Up to 2,000 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
+* ~~Up to 2,000 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
 
 #### June 1, 2023
 
-* Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
-* Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
+* ~~Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
+* ~~Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
 
 #### July 1, 2023
 
@@ -221,8 +221,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1, 2023
 
-* 330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
-* 330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
+* ~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
+* ~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
 
 #### July 1, 2023
 
@@ -234,18 +234,12 @@ Stewardship team may cancel this agreement at any point.
 * 330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
 * 330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55
 
-### [2023 Big3 Ball Hogs Budget](https://snapshot.org/#/krausehouse.eth/proposal/0xf2f9b2cb78be4bd4e5e1b00fde26c2eaf4f5ae467688c8ca11b935e3e3b21938)
-
-#### May 8, 2023
-
-* 60,000 USDC to Ball Hogs 2023 Multi-Sig (TBD)
-
 ### [Commodore & Flex Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x4acbeba59b7bc05ad7070c6e8dd387606641c4a2c455f88e79858f70c4cc3044)
 
 #### June 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### July 1, 2023
 
@@ -351,8 +345,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### June 1st, 2023
 
-* Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-* Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
+* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
 
 #### July 1st, 2023
 
