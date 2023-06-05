@@ -12,11 +12,6 @@ Stewardship team may cancel this agreement at any point.
 * 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
 * 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Dec 1, 2022
 
-### [Uncle Jon & The Pig Pen Podcast](https://snapshot.org/#/krausehouse.eth/proposal/0xb84bce22891c99f44ab856febdbacce234efdaed25d4e9f9a9e50b944dc3353a)
-
-* ~~4,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc on September 25, 2022~~
-* 6,000 USDC to 0xA2143248676122B8D8542F7Fe81CfF798fF58Fbc upon completion
-
 ### [NBA Ambassadors & Partnerships Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5b6e83053960bab9498a6359b506074acc00c4dd043d42e25d4188fc9b78e78a)
 
 * 200,000 $KRAUSE to NBA Ambassadors & Partnerships Team on October 1, 2022
