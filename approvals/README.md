@@ -379,3 +379,7 @@ Stewardship team may cancel this agreement at any point.
 
 * $9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 * 7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+
+### [Mochi Season #2 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x399deabbc13179c0e3868a90aa030eaf749910b5d5738cd663a9703a58af0294)
+
+* $5,000 USDT to mochiworld.eth
