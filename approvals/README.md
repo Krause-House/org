@@ -382,4 +382,12 @@ Stewardship team may cancel this agreement at any point.
 
 ### [Mochi Season #2 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x399deabbc13179c0e3868a90aa030eaf749910b5d5738cd663a9703a58af0294)
 
+#### June 15th, 2023
+
 * $5,000 USDT to mochiworld.eth
+
+### [Repurpose the Coordinape $KRAUSE Budget for KH & BH Bounties](https://snapshot.org/#/krausehouse.eth/proposal/0x77a01fb23441d4df6985e73455d1a98bbab275c616663fa5733a29abc11841c3)
+
+#### July 10th, 2023
+
+* 20,000 KRAUSE to be managed by Mario & Uncle Jon for KH & BH Bounties
