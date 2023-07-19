@@ -391,3 +391,10 @@ Stewardship team may cancel this agreement at any point.
 #### July 10th, 2023
 
 * 20,000 KRAUSE to be managed by Mario & Uncle Jon for KH & BH Bounties
+
+### [Pay general counsel in $KRAUSE instead of USDC](https://snapshot.org/#/krausehouse.eth/proposal/0x09e826d093a79cb1067421bf8f4c4e850e7332624c754cc2911c4b2289fc6c37)
+
+#### July 17th, 2023
+
+* 25,000 KRAUSE to general counsel legal fees
+
