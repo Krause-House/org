@@ -27,11 +27,6 @@ Stewardship team may cancel this agreement at any point.
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
 
-### [MyJerry Budget Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb52e62cc00e1f13aefcaee873b37f57bd8d247a88421cce92db37b7b518f44db)
-
-* 6000 USDC to Marketing Contributor TBD when requested
-* 5600 USDC to User Rewards + Software Budget TBD when requested
-
 ### [All In For Sport](https://snapshot.org/#/krausehouse.eth/proposal/0xb9314e7a8b8e273351deeda3e15d506043c7cfa3ea7b5e1a7577adf376bf0245)
 
 #### November 23rd, 2022
@@ -43,32 +38,6 @@ Stewardship team may cancel this agreement at any point.
 #### To be distributed as work is completed via Utopia
 
 * Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
-
-### [Shanny ETH Denver expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x3f983c8b3c208fcdc89a5c3c1667dd5d83236527afd6c2ab1a43584cc149e3e1)
-
-#### To be distributed as expense reimbursement via Utopia
-
-* Up to $2000 USDC to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-### [New Orleans Pelicans x Krause House](https://snapshot.org/#/krausehouse.eth/proposal/0x5304821e872c84f8dbd68b6100e54955ab2e0b9907d2b4b57dda1ea9821ee7b7)
-
-#### Deliverable upon KH meeting with Dennis or Gayle
-
-* 25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
-
-#### Deliverable upon Soothsquad participating in meeting w/ Dennis or Gayle
-
-* 3,500 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
-
-#### Deliverable upon closing LOI with Pelicans
-
-* 25000 USDC to 0xCA8F2f8273D090335DDFe95Ae397D4D04eaa3dC7
-
-### [Donate additional funds upon NBA player claiming the 50 pt Charity Bounty](https://snapshot.org/#/krausehouse.eth/proposal/0x29d57dcf9afc3e1b43ae04ee429cd78427ccb18ec08473d116b5d83ad6fead11)
-
-#### March 13, 2023
-
-* 4,100 USDC to https://juicebox.money/v2/p/436
 
 ### [Uncle Jon - Full Time Contributor?](https://snapshot.org/#/krausehouse.eth/proposal/0x8a63fa7e79df2db3121f709003c5866afe2e1aa8dfd592a2e34cdf358546e289)
 
@@ -84,8 +53,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* 8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* 1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
+* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
+* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
 
 #### August 1, 2023
 
@@ -118,7 +87,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### August 1, 2023
 
@@ -160,13 +129,13 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-* 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* ~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+* ~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 #### August 1, 2023
 
-* 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
-* 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* ~~7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+* ~~7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
 ### [crabtree Media Stream](https://snapshot.org/#/krausehouse.eth/proposal/0x83dc49198c19b816575b3d929418e213a64ed6c695dad0df584626537975799b)
 
@@ -182,8 +151,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* 5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
-* 2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee
+* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
+* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
 
 #### August 1, 2023
 
@@ -204,8 +173,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
-* Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
+* ~~Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
+* ~~Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
 
 #### August 1, 2023
 
@@ -238,8 +207,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### August 1, 2023
 
@@ -345,8 +314,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1st, 2023
 
-* Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-* Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
+* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
 
 #### August 1st, 2023
 
@@ -362,8 +331,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### July 1st, 2023
 
-* $9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-* 7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 #### August 1st, 2023
 
