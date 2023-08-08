@@ -76,3 +76,7 @@ Responsibility: Ability to update the settings of the Snapshot space.
 #### Flexible Stablecoin Payouts 
 
 kTx team has the permission to be flexible in stablecoin payouts (USDC, USDT, DAI) via Utopia as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xed47f38438e35d9a113199a2e25f43b201eff321ccee9f9d1eb2c64fd20a79e7).
+
+#### Convert ETH Into Stablecoins
+
+kTx team has the permission to convert ETH in the treasury into a stablecoin at the team's discretion, with the goal of having the treasury predominately in stablecoins as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb5f8472558c807fe53578926aeecd8a488769ea8757c2a4039a83636d8e512b9).
