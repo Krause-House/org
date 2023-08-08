@@ -374,3 +374,9 @@ Stewardship team may cancel this agreement at any point.
 #### August 20th, 2023
 
 * Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+### [2nd Annual Krause House x Guatemala Tournament](https://snapshot.org/#/krausehouse.eth/proposal/0x218208f3119562d0f19c4b109f1569a9c2505194d718740e0da2b58b20f869e0)
+
+#### July 30th, 2023
+
+* $3228.00 USDT to 0x7d8D2c8EA18f9a3Da11066f02057DAd708f97e8F
