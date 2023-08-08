@@ -27,12 +27,6 @@ Stewardship team may cancel this agreement at any point.
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
 
-### [All In For Sport](https://snapshot.org/#/krausehouse.eth/proposal/0xb9314e7a8b8e273351deeda3e15d506043c7cfa3ea7b5e1a7577adf376bf0245)
-
-#### November 23rd, 2022
-
-* 15,000 KRAUSE to AIFS wallet
-
 ### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
 
 #### To be distributed as work is completed via Utopia
@@ -58,8 +52,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### August 1, 2023
 
-* 8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* 1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
+* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
+* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
 
 #### September 1, 2023
 
@@ -91,7 +85,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### August 1, 2023
 
-* Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### September 1, 2023
 
@@ -178,8 +172,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### August 1, 2023
 
-* Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
-* Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787
+* ~~Up to 6,500 USDC to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
+* ~~Up to 6,500 KRAUSE to 0xBF6C4eE9441C774560b68D5ae34421d89C6F8787~~
 
 ### [Renew Medium Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x8603141c2860af2a40e6485a121fbd50d71fad198ac9bc4756dab49089040ae2)
 
@@ -212,8 +206,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### August 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### September 1, 2023
 
@@ -336,8 +330,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### August 1st, 2023
 
-* $9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-* 7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 #### September 1st, 2023
 
@@ -367,3 +361,16 @@ Stewardship team may cancel this agreement at any point.
 
 * 25,000 KRAUSE to general counsel legal fees
 
+### [Ball Hogs Coaching, Media, & Travel Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xf02fc5a52c9a9798b51de353e94684c94fee0fd6ce804c81cf4b33b90b53b59b)
+
+#### July 23rd, 2023
+
+* Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### July 30th, 2023
+
+* Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### August 20th, 2023
+
+* Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
