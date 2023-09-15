@@ -1,4 +1,4 @@
-## Current Approvals (updated September 15, 2023)
+## Current Approvals (updated September 15th, 2023)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
@@ -64,89 +64,6 @@ Stewardship team may cancel this agreement at any point.
 
 * 8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
 * 1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-
-### [Podcast Editing Service (via WillemDafaux)](https://snapshot.org/#/krausehouse.eth/proposal/0xdab304195286d1a7848dccce3c082ce6443f2060345f6b48c1c657dcb021182c)
-
-#### April 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-#### May 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-#### June 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-#### July 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-#### August 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-#### September 1, 2023
-
-* ~~Up to 300 USDC to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
-
-### [Contributor Funding Request for China Mod (Renewal)](https://snapshot.org/#/krausehouse.eth/proposal/0x0e112e7a72f4ac57da48d3ff95a0705965e06cb5b4d1a9f1e2a93223dbb558cb)
-
-#### May 1, 2023
-
-* ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
-
-#### June 1, 2023
-
-* ~~250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e~~
-
-#### July 1, 2023
-
-* 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
-
-#### August 1, 2023
-
-* 250 KRAUSE to 0x327b6FE69E64BaC40EE53D2AcFa1f2A3cd355e8e
-
-### [crabtree Media Stream](https://snapshot.org/#/krausehouse.eth/proposal/0x83dc49198c19b816575b3d929418e213a64ed6c695dad0df584626537975799b)
-
-#### May 1, 2023
-
-* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-#### June 1, 2023
-
-* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-#### July 1, 2023
-
-* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-#### August 1, 2023
-
-* ~~5,500 USDC to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-* ~~2,500 KRAUSE to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee~~
-
-### [Renew Medium Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x8603141c2860af2a40e6485a121fbd50d71fad198ac9bc4756dab49089040ae2)
-
-#### June 1, 2023
-
-* ~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-* ~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-
-#### July 1, 2023
-
-* ~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-* ~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-
-#### August 1, 2023
-
-* ~~330 USDC to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
-* ~~330 KRAUSE to 0xD90F482C1BbC6EE0fA0406A2F772c00dBC8EDE55~~
 
 ### [Commodore & Flex Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x4acbeba59b7bc05ad7070c6e8dd387606641c4a2c455f88e79858f70c4cc3044)
 
@@ -247,28 +164,6 @@ Stewardship team may cancel this agreement at any point.
 
 * 5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
 
-### [Bayesian Baller Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x9449f382552e27c1b883d1c5365086913a29162c36241e0b5d9d3f83bf9c4a89)
-
-#### June 1st, 2023
-
-* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### July 1st, 2023
-
-* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### August 1st, 2023
-
-* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### September 1st, 2023
-
-* ~~Up to $3,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 3,000 $KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
 ### [Mario Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0xdb3b9e09bb26c72551256f538f2641f80346e6cef73aad413f126555faf65dcd)
 
 #### July 1st, 2023
@@ -324,13 +219,3 @@ Stewardship team may cancel this agreement at any point.
 
 * $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
 * $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-
-### [Ball Hogs Coaching, Media, & Travel Proposal (Pt. II)](https://snapshot.org/#/krausehouse.eth/proposal/0x9085ee5d264827f017054286490b590a3ac20c26f890ea342035cceca3a17ea7)
-
-#### August 6th, 2023 (BIG3 Week 7)
-
-* ~~Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### August 14th, 2023 (BIG3 Week 8)
-
-* ~~Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
