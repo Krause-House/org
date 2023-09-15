@@ -380,3 +380,13 @@ Stewardship team may cancel this agreement at any point.
 
 * $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
 * $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
+
+### [Ball Hogs Coaching, Media, & Travel Proposal (Pt. II)](https://snapshot.org/#/krausehouse.eth/proposal/0x9085ee5d264827f017054286490b590a3ac20c26f890ea342035cceca3a17ea7)
+
+#### August 6th, 2023 (BIG3 Week 7)
+
+* Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### August 14th, 2023 (BIG3 Week 8)
+
+* Up to $2,500 USDT to 0xeFD9740AEBfF6039322A02206e8266F70DEc10ee and/or 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
