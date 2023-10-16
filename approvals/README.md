@@ -225,3 +225,29 @@ Stewardship team may cancel this agreement at any point.
 #### September 23rd, 2023
 
 * $7,500 DAI to Sporting Crypto invoice
+
+### [Podcast Editing Service (via WillemDafaux)](https://snapshot.org/#/krausehouse.eth/proposal/0x0f4a504790067248e3ec3318b16b33c69d2875844bd2fc063035b7ae4166e8aa)
+
+#### November 1st, 2023
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### December 1st, 2023
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### January 1st, 2024
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### February 1st, 2024
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### March 1st, 2024
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+#### April 1st, 2024
+
+* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
