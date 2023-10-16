@@ -33,38 +33,6 @@ Stewardship team may cancel this agreement at any point.
 
 * Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
 
-### [Uncle Jon - Full Time Contributor?](https://snapshot.org/#/krausehouse.eth/proposal/0x8a63fa7e79df2db3121f709003c5866afe2e1aa8dfd592a2e34cdf358546e289)
-
-#### May 1, 2023
-
-* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### June 1, 2023
-
-* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### July 1, 2023
-
-* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### August 1, 2023
-
-* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### September 1, 2023
-
-* ~~8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### October 1, 2023
-
-* 8,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* 1,000 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-
 ### [Commodore & Flex Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x4acbeba59b7bc05ad7070c6e8dd387606641c4a2c455f88e79858f70c4cc3044)
 
 #### June 1, 2023
@@ -89,8 +57,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### October 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### November 1, 2023
 
@@ -134,7 +102,7 @@ Stewardship team may cancel this agreement at any point.
 
 * $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
-#### September 1, 2023
+#### November 1, 2023
 
 * $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
@@ -163,28 +131,6 @@ Stewardship team may cancel this agreement at any point.
 #### November 1st, 2023
 
 * 5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-### [Mario Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0xdb3b9e09bb26c72551256f538f2641f80346e6cef73aad413f126555faf65dcd)
-
-#### July 1st, 2023
-
-* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-
-#### August 1st, 2023
-
-* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-
-#### September 1st, 2023
-
-* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-
-#### October 1st, 2023
-
-* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 ### [Mochi Season #2 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x399deabbc13179c0e3868a90aa030eaf749910b5d5738cd663a9703a58af0294)
 
