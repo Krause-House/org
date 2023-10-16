@@ -183,8 +183,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### October 1st, 2023
 
-* $9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-* 7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* ~~$9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~7,500 $KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 ### [Mochi Season #2 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x399deabbc13179c0e3868a90aa030eaf749910b5d5738cd663a9703a58af0294)
 
@@ -219,3 +219,9 @@ Stewardship team may cancel this agreement at any point.
 
 * $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
 * $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
+
+### [Sporting Crypto Event Sponsorship](https://snapshot.org/#/krausehouse.eth/proposal/0x871b8225d4ca75b8f9a687bca6036b5f3c58d0f7409922f1a55bf6b6f5f10752)
+
+#### September 23rd, 2023
+
+* $7,500 DAI to Sporting Crypto invoice
