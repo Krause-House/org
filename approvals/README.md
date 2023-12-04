@@ -62,13 +62,13 @@ Stewardship team may cancel this agreement at any point.
 
 #### November 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### December 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 #### January 1, 2023
 
@@ -106,37 +106,6 @@ Stewardship team may cancel this agreement at any point.
 
 * $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
-### [DAO Partnerships Strategist + Project Stream Advisor](https://snapshot.org/#/krausehouse.eth/proposal/0x9fceaae4089d1e7d1b5c7c0358076c71ac613b2cfa4f65a746961c803b1a84e1)
-
-#### June 1st, 2023
-
-* ~~5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54~~
-
-#### July 1st, 2023
-
-* ~~5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54~~
-
-#### August 1st, 2023
-
-* ~~5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54~~
-
-#### September 1st, 2023
-
-* 5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-#### October 1st, 2023
-
-* 5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-#### November 1st, 2023
-
-* 5000 $KRAUSE to 0x97f752e1d5F64CA932c32dBfF82f4c92710beE54
-
-### [Mochi Season #2 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x399deabbc13179c0e3868a90aa030eaf749910b5d5738cd663a9703a58af0294)
-
-#### June 15th, 2023
-
-* $5,000 USDT to mochiworld.eth
 
 ### [Repurpose the Coordinape $KRAUSE Budget for KH & BH Bounties](https://snapshot.org/#/krausehouse.eth/proposal/0x77a01fb23441d4df6985e73455d1a98bbab275c616663fa5733a29abc11841c3)
 
@@ -144,39 +113,11 @@ Stewardship team may cancel this agreement at any point.
 
 * 20,000 KRAUSE to be managed by Mario & Uncle Jon for KH & BH Bounties
 
-### [Capital Coordination - Stream Continuation Request](https://snapshot.org/#/krausehouse.eth/proposal/0x47024a37efb93d30beca0da26562c881b1d3fd94f1a389a6527f229d777f8267)
-
-#### August 31st, 2023
-
-* ~~$7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-* ~~$7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
-
-#### September 30th, 2023
-
-* $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-* $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-
-#### October 31st, 2023
-
-* $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-* $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-
-#### November 30th, 2023
-
-* $7,500 USDT to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-* $7,500 $KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112 
-
-### [Sporting Crypto Event Sponsorship](https://snapshot.org/#/krausehouse.eth/proposal/0x871b8225d4ca75b8f9a687bca6036b5f3c58d0f7409922f1a55bf6b6f5f10752)
-
-#### September 23rd, 2023
-
-* $7,500 DAI to Sporting Crypto invoice
-
 ### [Podcast Editing Service (via WillemDafaux)](https://snapshot.org/#/krausehouse.eth/proposal/0x0f4a504790067248e3ec3318b16b33c69d2875844bd2fc063035b7ae4166e8aa)
 
 #### November 1st, 2023
 
-* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### December 1st, 2023
 
@@ -197,3 +138,9 @@ Stewardship team may cancel this agreement at any point.
 #### April 1st, 2024
 
 * Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+
+### [NBA Pick Em 2023-2024 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0xb442b320a11942280bdb30b2ca59fa0a46e0b4823dd82930096a806941dd15da)
+
+#### October 23rd, 2023
+
+* Up to $1730 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
