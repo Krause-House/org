@@ -162,3 +162,29 @@ Stewardship team may cancel this agreement at any point.
 
 * 9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 * 1000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+
+### [Krause Picks Future Development](https://snapshot.org/#/krausehouse.eth/proposal/0x330182488d194cf48fc1a0ab5cdf0df0ee4ebf1490880ba791bc9ddc02825dec)
+
+#### December 13th, 2023
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+#### January 13th, 2024
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+#### February 13th, 2024
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+#### March 13th, 2024
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+#### April 13th, 2024
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+#### May 13th, 2024
+
+* Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
