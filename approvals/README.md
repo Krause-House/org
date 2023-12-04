@@ -1,17 +1,17 @@
-## Current Approvals (updated October 16th, 2023)
+## Current Approvals (updated December 4th, 2023)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
-* ~~20000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
-* 20000 $KRAUSE to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
+* ~~20,000 USDC to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6~~
+* 20,000 $KRAUSE to 0xde21F729137C5Af1b01d73aF1dC21eFfa2B8a0d6
 
 ### [Contributor Funding Request - Defining Fan Ownership (GladRobot)](https://snapshot.org/#/krausehouse.eth/proposal/0xbf47141bbc522c539580a2f111b137615cfb92647c8c0878434a9ac2108fb2ff)
 Stewardship team may cancel this agreement at any point.
 
-* 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022
-* 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bconon Oct 1, 2022
-* 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
-* 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Dec 1, 2022
+* 20,000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022
+* 20,000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bconon Oct 1, 2022
+* 20,000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
+* 20,000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Dec 1, 2022
 
 ### [NBA Ambassadors & Partnerships Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5b6e83053960bab9498a6359b506074acc00c4dd043d42e25d4188fc9b78e78a)
 
@@ -32,7 +32,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### To be distributed as work is completed via Utopia
 
-* Up to $2000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
+* Up to $2,000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
 
 ### [Commodore & Flex Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x4acbeba59b7bc05ad7070c6e8dd387606641c4a2c455f88e79858f70c4cc3044)
 
@@ -144,7 +144,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### October 23rd, 2023
 
-* Up to $1730 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+* Up to $1,730 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
 
 ### [Mario Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x6a5a6ad00e5b2f6c3f4906eb09eacb6b3b8c5c1aafb670c1bc733240906a2abb)
 
@@ -156,12 +156,12 @@ Stewardship team may cancel this agreement at any point.
 #### December 1st, 2023
 
 * ~~9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
-* ~~1000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~1,000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 #### January 1st, 2024
 
 * 9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-* 1000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* 1,000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
 
 ### [Krause Picks Future Development](https://snapshot.org/#/krausehouse.eth/proposal/0x330182488d194cf48fc1a0ab5cdf0df0ee4ebf1490880ba791bc9ddc02825dec)
 
