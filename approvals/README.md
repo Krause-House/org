@@ -7,6 +7,7 @@ In the case of any conflict between agreements here and Snapshot proposals that 
 
 ### [Contributor Funding Request - Defining Fan Ownership (GladRobot)](https://snapshot.org/#/krausehouse.eth/proposal/0xbf47141bbc522c539580a2f111b137615cfb92647c8c0878434a9ac2108fb2ff)
 Stewardship team may cancel this agreement at any point.
+
 * 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon Sep 1, 2022
 * 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bconon Oct 1, 2022
 * 20000 $KRAUSE to 0xc99E7287c004b1aF293495485d9E8F119C5b46bcon on Nov 1, 2022
@@ -121,7 +122,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### December 1st, 2023
 
-* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### January 1st, 2024
 
@@ -144,3 +145,20 @@ Stewardship team may cancel this agreement at any point.
 #### October 23rd, 2023
 
 * Up to $1730 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+### [Mario Contributor Stream Renewal](https://snapshot.org/#/krausehouse.eth/proposal/0x6a5a6ad00e5b2f6c3f4906eb09eacb6b3b8c5c1aafb670c1bc733240906a2abb)
+
+#### November 1st, 2023
+
+* ~~2,365.68 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~258 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+
+#### December 1st, 2023
+
+* ~~9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~1000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+
+#### January 1st, 2024
+
+* 9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* 1000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
