@@ -188,3 +188,9 @@ Stewardship team may cancel this agreement at any point.
 #### May 13th, 2024
 
 * Up to 6,600 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
+
+### [Krause House Shorts Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5f932229a7b6ff6e40419daa5470e1b5e756513e1cd09d51a66f8ff4977509dc)
+
+#### November 15th, 2023
+
+* Up to 2,500 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
