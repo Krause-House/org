@@ -80,3 +80,7 @@ kTx team has the permission to be flexible in stablecoin payouts (USDC, USDT, DA
 #### Convert ETH Into Stablecoins
 
 kTx team has the permission to convert ETH in the treasury into a stablecoin at the team's discretion, with the goal of having the treasury predominately in stablecoins as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb5f8472558c807fe53578926aeecd8a488769ea8757c2a4039a83636d8e512b9).
+
+#### Striker Manager 3 Branding License
+
+Grant Striker Manager 3 the ability to leverage Krause House’s IP and design assets in-game starting October 1st 2023 a 3 year contract with the possibility of breaking the agreement on a yearly basis as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x80a174ff714406268c8a5328b58dea8136509cfaeacb36e106747c49d656d0ef).
