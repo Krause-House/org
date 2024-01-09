@@ -73,8 +73,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### January 1, 2023
 
-* 16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
-* 16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C
+* ~~16,667 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+* ~~16,667 USDC to 0x5715E8a86c4b785dE5114ed9b2233C566f73756C~~
 
 
 ### [Krause Court + Webflow Expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x85ccd9171fbd3d3701049208893b7b4e5700461170a8a6cfe9814b7f2d773fc3)
@@ -126,7 +126,7 @@ Stewardship team may cancel this agreement at any point.
 
 #### January 1st, 2024
 
-* Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9
+* ~~Up to $300 DAI to 0x3381Cf9331242Fba114b00c0984573E5149D28b9~~
 
 #### February 1st, 2024
 
@@ -160,8 +160,8 @@ Stewardship team may cancel this agreement at any point.
 
 #### January 1st, 2024
 
-* 9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
-* 1,000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42
+* ~~9,167 USDC to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
+* ~~1,000 KRAUSE to 0x76e888d1B2D18031b2045Ebb1f63642277d67E42~~
 
 ### [Krause Picks Future Development](https://snapshot.org/#/krausehouse.eth/proposal/0x330182488d194cf48fc1a0ab5cdf0df0ee4ebf1490880ba791bc9ddc02825dec)
 
@@ -193,4 +193,26 @@ Stewardship team may cancel this agreement at any point.
 
 #### November 15th, 2023
 
-* Up to 2,500 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE
+* ~~Up to 2,500 USDC to 0xC8Af50428848b28ec5168037B54b7C7D83e168EE~~
+
+### [Capital Coordination Stream - Continuation](https://snapshot.org/#/krausehouse.eth/proposal/0xbd3825151a811e9b89b02d4db69236922e2d86784ac0e464d6e7cc0d77d2c0e7)
+
+#### December 31st, 2023
+
+* ~~Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+* ~~Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
+
+#### January 31st, 2023
+
+* Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+
+#### Feburary 29th, 2023
+
+* Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+
+#### March 31st, 2023
+
+* Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+* Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
