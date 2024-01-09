@@ -197,22 +197,44 @@ Stewardship team may cancel this agreement at any point.
 
 ### [Capital Coordination Stream - Continuation](https://snapshot.org/#/krausehouse.eth/proposal/0xbd3825151a811e9b89b02d4db69236922e2d86784ac0e464d6e7cc0d77d2c0e7)
 
-#### December 31st, 2023
+#### December 31st, 2024
 
 * ~~Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 * ~~Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112~~
 
-#### January 31st, 2023
+#### January 31st, 2024
 
 * Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 * Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 
-#### Feburary 29th, 2023
+#### Feburary 29th, 2024
 
 * Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 * Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 
-#### March 31st, 2023
+#### March 31st, 2024
 
 * Up to 7,500 USDC to 0xAEa967842976600f1a9256DcA207E4435A6f0112
 * Up to 7,500 KRAUSE to 0xAEa967842976600f1a9256DcA207E4435A6f0112
+
+### [Bayesian Baller Contributor Stream Renewal (Spring ‘24)](https://snapshot.org/#/krausehouse.eth/proposal/0xa4ea78e46fc85ae0a22230772ef3b56bee51106a02f12bbd2df88a8bd8268e53)
+
+#### February 1st, 2024
+
+* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### March 1st, 2024
+
+* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### April 1st, 2024
+
+* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+
+#### May 1st, 2024
+
+* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
+* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
