@@ -6,7 +6,7 @@
 
 - Commodore
 - Flex Chapman
-- Mario Lopes
+- Uncle Jon
 - Lewwwwk
 - Magnus
 - Shanny
@@ -17,7 +17,7 @@ Responsibility: Send community proposals to Snapshot, reject unclear or blatantl
 
 - Commodore
 - Flex Chapman
-- Mario Lopes
+- Uncle Jon
 - Lewwwwk
 - Magnus
 - Glad Robot
@@ -79,7 +79,7 @@ kTx team has the permission to be flexible in stablecoin payouts (USDC, USDT, DA
 
 #### Convert ETH Into Stablecoins
 
-kTx team has the permission to convert ETH in the treasury into a stablecoin at the team's discretion, with the goal of having the treasury predominately in stablecoins as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0xb5f8472558c807fe53578926aeecd8a488769ea8757c2a4039a83636d8e512b9).
+kTx team has the permission to convert ETH in the treasury into a stablecoin at the request of contributors for payouts, with the goal of having the treasury predominately in ETH as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x0bad507607263dbf7705a80a2fa09bb70d123affade628d7f2a9e07a90d258ea).
 
 #### Striker Manager 3 Branding License
 
