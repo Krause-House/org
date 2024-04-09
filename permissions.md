@@ -84,3 +84,7 @@ kTx team has the permission to convert ETH in the treasury into a stablecoin at 
 #### Striker Manager 3 Branding License
 
 Grant Striker Manager 3 the ability to leverage Krause House’s IP and design assets in-game starting October 1st 2023 a 3 year contract with the possibility of breaking the agreement on a yearly basis as granted by [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x80a174ff714406268c8a5328b58dea8136509cfaeacb36e106747c49d656d0ef).
+
+#### Beam Branding License
+
+Grant Beam the ability to leverage Krause House’s IP and design assets for a collaborative March Madness 2024 tournament as outlined in the [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x1f4de8f0cd3888236ab791795ad844fefb0383f73513435f645bf85cf4eaeb11).
