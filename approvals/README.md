@@ -1,4 +1,4 @@
-## Current Approvals (updated April 9th, 2024)
+## Current Approvals (updated August 14th, 2024)
 In the case of any conflict between agreements here and Snapshot proposals that passed before 9/13/22, the Snapshot proposals should be given priority.
 
 ### [Gitcoin DEI Grant Program Sponsorship and Participation Proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x795d2b73b44ad50016a81e7657b138970fd2bf321cc75948628db57c66cd15ef)
@@ -27,13 +27,6 @@ Stewardship team may cancel this agreement at any point.
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on September 25, 2022
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on November 1, 2022
 * 10,000 $KRAUSE 2/3 multisig managed by peterrr#4718, Lewwwk#4227 and Samuel Thomas | Sthomas1100#3216 on December 1, 2022
-
-### [KH Philippines TikTok Experiment](https://snapshot.org/#/krausehouse.eth/proposal/0xc402a968a391f7ec1cc2509ae6e27e0479eb86d693d1c70269a274bbb2558282)
-
-#### To be distributed as work is completed via Utopia
-
-* Up to $2,000 USDC to @unnecessaryfiles (Instagram handle) managed via Commodore
-
 
 ### [Krause Court + Webflow Expenses](https://snapshot.org/#/krausehouse.eth/proposal/0x85ccd9171fbd3d3701049208893b7b4e5700461170a8a6cfe9814b7f2d773fc3)
 

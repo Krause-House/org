@@ -88,3 +88,17 @@ Grant Striker Manager 3 the ability to leverage Krause House’s IP and design a
 #### Beam Branding License
 
 Grant Beam the ability to leverage Krause House’s IP and design assets for a collaborative March Madness 2024 tournament as outlined in the [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x1f4de8f0cd3888236ab791795ad844fefb0383f73513435f645bf85cf4eaeb11).
+
+#### Creation of House Protocol Labs Inc.
+
+KH grants the creation of House Protocol Labs Inc. (HPL), a development company to build House Protocol & a financial vehicle to take external funding.
+KH invokes HPL to build, launch, and maintain House Protocol.
+
+**Covenants**
+
+House Protocol does not request any funds of any kind from KH.
+House Protocol will use KH governance as a nomination & approval flow of House Protocol as per protocol parameters, until eventual independent governance.
+KH acknowledges zero claims of IP for the name & concept of House Protocol.
+KH can seek to use House Protocol to attempt to acquire the Ball Hogs majority position.
+
+As outlined in this [proposal](https://snapshot.org/#/krausehouse.eth/proposal/0x8a57174ae465d25fb85e2cb547fa2849b9d46ebe08632cbec54a41097c047e05).
