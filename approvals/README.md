@@ -66,53 +66,8 @@ Stewardship team may cancel this agreement at any point.
 * $258 USDC to 0xE97F19e5DF4e6dCa116c3097CE16a3bfFE891Cee
 
 
-### [Repurpose the Coordinape $KRAUSE Budget for KH & BH Bounties](https://snapshot.org/#/krausehouse.eth/proposal/0x77a01fb23441d4df6985e73455d1a98bbab275c616663fa5733a29abc11841c3)
+### [Krause House DAO Foundation / Corp - Renewal Budget for 2 Years](https://snapshot.org/#/krausehouse.eth/proposal/0xbde9b6129aa4f1537de9db6a4bbb96cae04d19f62a1c29775a657dc90b72e9a0)
 
-#### July 10th, 2023
+#### June 17th, 2024
 
-* 20,000 KRAUSE to be managed by Mario & Uncle Jon for KH & BH Bounties
-
-### [NBA Pick Em 2023-2024 Budget](https://snapshot.org/#/krausehouse.eth/proposal/0xb442b320a11942280bdb30b2ca59fa0a46e0b4823dd82930096a806941dd15da)
-
-#### October 23rd, 2023
-
-* Up to $1,730 USDC to 0x540a6950376edc97d449eccfd1987c100843be72
-
-### [Bayesian Baller Contributor Stream Renewal (Spring ‘24)](https://snapshot.org/#/krausehouse.eth/proposal/0xa4ea78e46fc85ae0a22230772ef3b56bee51106a02f12bbd2df88a8bd8268e53)
-
-#### February 1st, 2024
-
-* ~~Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### March 1st, 2024
-
-* ~~Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-* ~~Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F~~
-
-#### April 1st, 2024
-
-* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-
-#### May 1st, 2024
-
-* Up to 4,000 USDC to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-* Up to 4,000 KRAUSE to 0xD9b3Ad0eb0d3b9DF83CE919198F9ad0Ff692522F
-
-### [Uncle “Daddy” Jon Content Stream Budget](https://snapshot.org/#/krausehouse.eth/proposal/0x5f63e355b6509a590258508f19076cfb6fa77879724f862298adaa1986c458af)
-
-#### March 1st, 2024
-
-* ~~Up to 2,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-* ~~Up to 500 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1~~
-
-#### April 1st, 2024
-
-* Up to 2,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* Up to 500 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-
-#### May 1st, 2024
-
-* Up to 2,000 USDC to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
-* Up to 500 KRAUSE to 0xF65f8fc7240999B192DaA081Dfa8Cd02bF3DCCe1
+* Up to $7,600 USDC to Korporatio
